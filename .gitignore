@@ -1,2 +1,5 @@
-build/
-firmware/
+/wifi.h
+/examples/*/wifi.h
+/examples/*/build
+/examples/*/firmware
+.DS_Store
